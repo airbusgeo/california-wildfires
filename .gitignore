@@ -1,0 +1,12 @@
+# Apikey
+api_key.txt
+
+# Images
+*.jpg
+*.gif
+
+# Json output
+*.json
+
+# Jupyter config
+.ipynb_checkpoints
