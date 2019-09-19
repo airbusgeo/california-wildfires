@@ -1,6 +1,6 @@
 # california-wildfire
 
-Jupyter notebook (python) to present One Atlas Data API.
+Jupyter notebook (python) to present One Atlas Data API. Check the [tutorial](https://tceife2-idp-prod-oneatlasdata.appspot.com/tutorials/t-california-wildfire/).
 
 - Find image with opensearch
 - Get his wmts template to map it
